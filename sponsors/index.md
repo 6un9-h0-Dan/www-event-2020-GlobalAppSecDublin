@@ -6,9 +6,9 @@ title: Sponsoring
 Global AppSec Events provide unique opportunities for members, the community, and partners to connect and discover new InfoSec products and solutions. The OWASP Foundation offers several options to potential sponsors:
 
 * Single event sponsorships
-* Packages for multiple events, training, and other benefits
+* Packages for multiple events, training, and other valuable benefits exclusively available to Corporate Sponsors only.
 
-If you are interested in becoming a Single or Corporate Event Sponsor, please contact 
+If you are interested in becoming a Single or Corporate Sponsor, please contact 
 [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com?subject=Sponsorship%20Interest) for more information.
 
 ## Exhibitor Opportunities
@@ -22,6 +22,7 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 | Logo on Event Signage | Yes | Yes |
 | Lead Scanners | One | One |
 | Cost | €10,500 | €7,500 |
+
 
 ## Sponsorship Opportunities
 
